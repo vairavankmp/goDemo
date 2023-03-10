@@ -1,7 +1,5 @@
-package goDemo
+package main
 
-import "fmt"
-
-func sayHi String(){
-return String ("welcome")
+func sayHi() string {
+	return string("hello")
 }
